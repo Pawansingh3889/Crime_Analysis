@@ -20,3 +20,5 @@ The analysis was performed using AWS services:
 * **Regional Differences:** The distribution of crime types varies significantly across different Local Super Output Areas (LSOAs).
 * **High Reporting Agency:** The Metropolitan Police Service consistently reported the highest number of crimes.
 * **Reporting Trends:** Trends in reported crime numbers varied among different police forces between 2022 and 2024.
+
+[UK Crime Data (Jan 2022 - Oct 2024)](https://www.kaggle.com/datasets/ajayuchana/crime-data-in-the-uk-012022-to-102024)
